@@ -11,4 +11,4 @@ This repository contains 2 "Hello World" React Native apps. One is built with th
 7. Press the button on the first screen again
 8. Notice that the 'World' shows small wrongly.
 
-Repeat the above steps in the oldarch app and you'll see that the title shows large correctly at both steps 5 and at step 8.
+Repeat the above steps in the oldarch app and you'll see that the 'World' title shows large correctly at both steps 5 and at step 8.
